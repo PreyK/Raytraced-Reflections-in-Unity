@@ -4,3 +4,5 @@ A very simple and hacky implementation of raytraced reflections in unity. Theore
 This is not in any way shape or form usable, i just wanted to try it out just cause you can.
 The basic idea is: Trace only the reflections because they are cheap(er) and do the rest of the rendering via rasterization because it’s faster so you could have the best of both worlds.
 ![](rtr.PNG)
+
+Maybe i will pick this up again when i have more free time and implement something proper.
